@@ -3,7 +3,7 @@
 
 ## 原作者
      https://github.com/hestyle/m3u8_downloader
-
+---
 ## 项目简介
 `m3u8_downloader` 是一个用于下载和合并 m3u8 视频流的 Python 脚本。该脚本支持多线程下载、AES-128 解密和视频格式转换，能够将 m3u8 视频流下载为 mp4 文件。
 
